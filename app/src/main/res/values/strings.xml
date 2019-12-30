@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Daily News</string>
+
+    <string name="unknown_date">date unknown</string>
+    <string name="unknown_time">time unknown</string>
+    <string name="no_news">No News updates found. Check back later</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+</resources>
